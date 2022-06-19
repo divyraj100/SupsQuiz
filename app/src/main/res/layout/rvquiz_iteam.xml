@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardContainer"
+    android:layout_width="match_parent"
+    android:elevation="18dp"
+    android:background="@drawable/bg_quiz_item"
+    android:layout_margin="10dp"
+    android:layout_height="190dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="14dp"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="88dp"
+            android:layout_height="88dp"
+            android:id="@+id/quizIcon"
+            android:scaleType="centerCrop"
+            android:src="@drawable/icon1"
+            app:tint="@color/white"/>
+
+        <TextView
+            android:id="@+id/quizTitle"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/white"
+            tools:text="10/05/2022" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

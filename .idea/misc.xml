@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/drawable/back.xml" value="0.1275" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/drawable/bg_option_item.xml" value="0.1275" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/drawable/bg_option_item_selected.xml" value="0.1275" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/drawable/bg_quiz_item.xml" value="0.1325" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/drawable/btn_bg.xml" value="0.1325" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/drawable/et_bg.xml" value="0.1325" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1275" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/drawable/ic_baseline_wine_bar_24.xml" value="0.1275" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/drawable/ic_undraw_quiz_re_aol4.xml" value="0.1325" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/action_bar.xml" value="0.23229166666666667" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/activity_login.xml" value="0.23229166666666667" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/activity_login_intro.xml" value="0.2" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/activity_quiz.xml" value="0.23229166666666667" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/activity_result.xml" value="0.23229166666666667" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/activity_sign_up.xml" value="0.23229166666666667" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/activity_user_profile.xml" value="0.21822916666666667" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/bg_quiz_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/drawer_header.xml" value="0.23229166666666667" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/option_quiz_item.xml" value="0.23125" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/rvquiz_iteam.xml" value="0.20277777777777778" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/layout/sample_rv_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/My Apps/Movie_Quizz/app/src/main/res/menu/drawer_menu.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

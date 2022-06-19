@@ -1,0 +1,13 @@
+
+
+
+-> How it works
+
+-first create a database in the firebase than write data in this there is questions,answer and options
+ give every doc a title that must be A Date in dd-MM-yy format.
+-every time you enter the data than they are shown in app.
+-user can go to quiz screen by clicking mainActivity cards or direct through date picker.
+-after completing quiz use goes to result activity than back to mainActivity.
+
+so yeah that's it FOR NOW
+
